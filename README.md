@@ -5,6 +5,6 @@ Implemented from scratch the lucas kanade algorithim for tracking a moving objec
 1.A car's POV tracking a car in front of it.\
 2.A plane landing tracking the runway number.
 
-###Results:
-![Car tracking](output/car.gif)
+### Results:
+![Car tracking](output/car.gif)\
 ![Landing tracking](output/landing.gif)
